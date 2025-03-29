@@ -10,7 +10,7 @@ public class Principal
 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-
+        System.out.println("gei"):
         System.out.println("Cuantas personas va a ingresar: ");
         int numPersonas = scan.nextInt();
 
