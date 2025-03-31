@@ -1,6 +1,7 @@
 package ec.edu.ups.poo.clases;
 
 import java.util.Scanner;
+// Me gusta el moises
 
 public class Personas {
     String nombre;
