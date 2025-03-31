@@ -2,7 +2,7 @@ package ec.edu.ups.poo.clases;
 
 import java.util.Scanner;
 // Me gusta el moises
-
+// me gusta el matias
 public class Personas {
     String nombre;
     String apellido;
